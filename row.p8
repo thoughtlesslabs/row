@@ -56,7 +56,7 @@ end
 
 function draw_water()
 	for i=0,10 do
-		circfill(10,10,2,5)
+		circfill(10,10,3,7)
 	end
 end
 
