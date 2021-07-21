@@ -51,6 +51,11 @@ function move_canoe()
 	canoe.dx -= waterspeed 
 	canoe.x += canoe.dx
 end
+
+function create_sky()
+	for i=0,30 do
+		addsky(
+end
 -->8
 -- draw functions
 
